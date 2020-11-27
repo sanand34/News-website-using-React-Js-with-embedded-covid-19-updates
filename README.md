@@ -1,3 +1,11 @@
+API used source:
+-https://www.themoviedb.org/
+-https://restcountries.eu/
+-https://currentsapi.services/en
+
+Link to website-https://news-app-49514.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

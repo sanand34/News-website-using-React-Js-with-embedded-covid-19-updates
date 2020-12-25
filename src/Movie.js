@@ -50,7 +50,7 @@ function Movie() {
             setNum(e.target.value);
           }}
         >
-          <MenuItem value={0}>Netflix Originals</MenuItem>
+          <MenuItem value={0}>Netflix Shows</MenuItem>
           <MenuItem value={1}>Trending</MenuItem>
           <MenuItem value={2}>Top Rated</MenuItem>
           <MenuItem value={3}>Romance</MenuItem>

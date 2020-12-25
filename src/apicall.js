@@ -1,4 +1,4 @@
-const API_KEY = //Get from https://www.themoviedb.org/;
+const API_KEY = `Get from https://www.themoviedb.org/`;
 
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,

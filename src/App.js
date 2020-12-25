@@ -30,7 +30,7 @@ function App() {
   useEffect(() => {
     async function data() {
       await fetch(
-        `https://api.currentsapi.services/v1/search?country=${country[0].alpha2Code}&language=en&apiKey=`
+        `https://api.currentsapi.services/v1/search?country=${country[0].alpha2Code}&language=en&apiKey=${'Get From website'}`
       )
         .then((response) => response.json())
         .then((data) => {
